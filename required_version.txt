@@ -1,1 +1,1 @@
-auto-updater-0.7-0.noarch.rpm
+auto-updater-0.8-0.noarch.rpm
