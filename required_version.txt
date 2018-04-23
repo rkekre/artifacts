@@ -1,1 +1,1 @@
-auto-updater-0.9-0.noarch
+auto-updater-0.8-0.noarch
